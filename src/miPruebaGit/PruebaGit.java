@@ -18,8 +18,8 @@ public class PruebaGit {
 		double volumencil=volumenCilindro(alturacil, radiocil);
 		double volumenesf=volumenEsfera(radioesf);
 		
-		System.out.println("Volumen cilindro="+volumencil);
-		System.out.println("Volumen esfera="+volumenesf);
+		System.out.println("Volumen del cilindro="+volumencil);
+		System.out.println("Volumen de la esfera="+volumenesf);
 		}
 
 		private static double volumenEsfera(double radioesf) {
