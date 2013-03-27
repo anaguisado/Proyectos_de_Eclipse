@@ -14,4 +14,4 @@ Para la correcta instalación y funcionamiento del proyecto harán falta al menos:
 Contacto
 --------
 
-La página de referencia del tutorial con el que se ha realizado esta práctica se encuentra [aquí](http://aguasnegras.es/blog/?cat=17). Para cualquier comentario o sugerencia puedes contactar con [Ana Guisado](<anaguisad@gmail.com>). 
+La página de referencia del tutorial con el que se ha realizado esta práctica se encuentra [aquí](http://aguasnegras.es/blog/?cat=17). Para cualquier comentario o sugerencia puedes contactar con Ana Guisado en la dirección: <anaguisad@gmail.com>. 
